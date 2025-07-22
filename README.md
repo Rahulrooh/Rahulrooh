@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Raj Alluri — Java Developer
+# 👋 Hi, I'm Rahul Raj Alluri — Software Engineer
 
 🎯 A passionate Java Developer with 4+ years of experience in building scalable, secure, and cloud-ready web applications using modern full-stack technologies.
 
